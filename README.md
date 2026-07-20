@@ -79,3 +79,14 @@ One challenge encountered during the lab was understanding why more complex mode
 ## Conclusion
 
 This lab provided valuable experience implementing, evaluating, and comparing multiple regression algorithms using a real-world medical dataset. The results demonstrated that selecting appropriate input features has a greater impact on prediction performance than simply increasing model complexity. The analysis also highlighted the importance of regularization techniques for controlling overfitting and improving model robustness. Overall, the lab strengthened practical understanding of regression modeling, evaluation metrics, feature engineering, and the trade-offs between model simplicity, complexity, and generalization.
+
+---
+
+## Tools and Libraries
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Sklearn
+- Jupyter Notebook
