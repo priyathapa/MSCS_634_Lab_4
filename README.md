@@ -1,4 +1,6 @@
-# MSCS634_Lab_Regression_Analysis
+# MSCS634_Lab_4
+
+# Regression Analysis with Regularization Techniques
 
 ## Lab Overview
 
